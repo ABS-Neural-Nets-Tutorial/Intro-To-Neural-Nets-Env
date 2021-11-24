@@ -1,3 +1,3 @@
-# Intro-To-Neural-Networks-R
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ABS-Neural-Nets-Tutorial/Intro-To-Neural-Nets-R/HEAD)
+# Introduction to Neural Networks Learning Session
+## Binder environment repository
+Separated out the content repository and the environment repository, to avoid having to recreate the image every time the content changes.
